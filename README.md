@@ -13,6 +13,7 @@ Este proyecto tiene como objetivo analizar los datos relacionados con los sinies
   - `seaborn`: Para gráficos estadísticos más avanzados.
   - `openpyxl`: Para la lectura de archivos Excel.
   - `geopy`: Para la verificación de coordenadas utilizando APIs.
+  **Herramienta de Visualización**: PowerBI
 
 ## Metodología Aplicada
 
